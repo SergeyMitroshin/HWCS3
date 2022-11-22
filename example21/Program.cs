@@ -10,7 +10,6 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 
 
-// See https://aka.ms/new-console-template for more information
 
 using System;
 Console.WriteLine("Введите координату x1");
