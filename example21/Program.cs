@@ -11,7 +11,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 
 
-using System;
+
 Console.WriteLine("Введите координату x1");
 int x1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите координату y1");
